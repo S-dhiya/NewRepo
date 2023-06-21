@@ -4,7 +4,7 @@
       int b=64;
        int c=a+b;
         for(int i=0;i<=5;i++)
-       System.out.println("sandhiya");
+       System.out.println("hi friends");
       System.out.println(c);
      }
      }
